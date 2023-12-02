@@ -1,5 +1,5 @@
 # yolact
-(주)일성하이스코와 진행한 경북대학교 인공지능혁신융합대학사업단 산학프로젝트(CCTV 현장 안전 인공지능 시스템)<br/><br/>
+(주)일성하이스코와 진행한 경북대학교 인공지능혁신융합대학사업단 산학 프로젝트(CCTV 현장 안전 인공지능 시스템)<br/><br/>
 ai-hub에 공개되어 있는 모델(https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=163)<br>
 해당 모델은 resnet101 기반의 yolact모델 사용 (https://github.com/dbolya/yolact)
 
